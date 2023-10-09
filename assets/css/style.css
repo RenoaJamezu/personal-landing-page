@@ -1,0 +1,32 @@
+#hero {
+ padding-top: 10rem !important;
+ padding-bottom: 7rem !important;
+}
+
+#about {
+ margin-top: 3rem !important;
+ margin-bottom: 3rem !important;
+ padding-top: 5rem !important;
+ padding-bottom: 7rem;
+}
+
+#stack {
+ margin-top: 3rem !important;
+ margin-bottom: 3rem !important;
+ padding-top: 5rem !important;
+ padding-bottom: 7rem;
+}
+
+#proj {
+ margin-top: 3rem !important;
+ margin-bottom: 3rem !important;
+ padding-top: 5rem !important;
+ padding-bottom: 7rem;
+}
+
+#cert {
+ margin-top: 3rem !important;
+ margin-bottom: 3rem !important;
+ padding-top: 5rem !important;
+ padding-bottom: 7rem;
+}
