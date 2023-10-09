@@ -4,29 +4,70 @@
 }
 
 #about {
- margin-top: 3rem !important;
- margin-bottom: 3rem !important;
  padding-top: 5rem !important;
  padding-bottom: 7rem;
 }
 
 #stack {
- margin-top: 3rem !important;
- margin-bottom: 3rem !important;
  padding-top: 5rem !important;
  padding-bottom: 7rem;
 }
 
 #proj {
- margin-top: 3rem !important;
- margin-bottom: 3rem !important;
  padding-top: 5rem !important;
  padding-bottom: 7rem;
 }
 
 #cert {
- margin-top: 3rem !important;
- margin-bottom: 3rem !important;
  padding-top: 5rem !important;
  padding-bottom: 7rem;
+}
+
+/* Custom Color */
+.bg-custom-primary {
+ background-color: #05161A;
+}
+
+.bg-custom-secondary {
+ background-color: #072E33;
+}
+
+.bg-custom-tertiary {
+ background-color: #0C7075;
+}
+
+.bg-custom-quaternary {
+ background-color: #0F969C;
+}
+
+.bg-custom-quinary {
+ background-color: #6DA5C0;
+}
+
+.bg-custom-senary {
+ background-color: #294D61;
+}
+
+.text-custom-primary {
+ color: #05161A;
+}
+
+.text-custom-secondary {
+ color: #072E33;
+}
+
+.text-custom-tertiary {
+ color: #0C7075;
+}
+
+.text-custom-quaternary {
+ color: #0F969C;
+}
+
+.text-custom-quinary {
+ color: #6DA5C0;
+}
+
+.text-custom-senary {
+ color: #294D61;
 }
