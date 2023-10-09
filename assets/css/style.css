@@ -1,26 +1,6 @@
-#hero {
- padding-top: 10rem !important;
+#hero, #about, #stack, #proj, #cert, #seminar {
+ padding-top: 7rem !important;
  padding-bottom: 7rem !important;
-}
-
-#about {
- padding-top: 5rem !important;
- padding-bottom: 7rem;
-}
-
-#stack {
- padding-top: 5rem !important;
- padding-bottom: 7rem;
-}
-
-#proj {
- padding-top: 5rem !important;
- padding-bottom: 7rem;
-}
-
-#cert {
- padding-top: 5rem !important;
- padding-bottom: 7rem;
 }
 
 /* Custom Color */
