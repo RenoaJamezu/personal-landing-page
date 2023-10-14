@@ -57,6 +57,11 @@
 }
 
 .tech-stack-icon:hover {
- transform: scale(1.5);
+ transform: scale(1.1);
+ transition: 1s;
+}
+
+.prj:hover {
+ transform: scale(1.03);
  transition: 1s;
 }
